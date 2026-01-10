@@ -1,0 +1,13 @@
+id,name,meal_type,calories,protein_g,fat_g,carbs_g,diets
+1001,Greek Yogurt with Honey,breakfast,180,12,5,22,Vegetarian
+1002,Avocado Toast,breakfast,250,6,14,28,Vegan
+1003,Oatmeal with Berries,breakfast,320,10,6,55,Vegetarian
+1004,Scrambled Eggs with Spinach,breakfast,210,17,14,4,Gluten Free
+2001,Grilled Chicken Salad,main course,420,38,18,20,Gluten Free
+2002,Spaghetti Aglio e Olio,main course,520,14,20,68,Vegetarian
+2003,Vegetable Risotto,main course,480,12,12,72,Vegetarian
+2004,Beef Stir Fry,main course,560,42,22,40,Ketogenic
+3001,Baked Salmon with Potatoes,dinner,530,40,28,35,Pescetarian
+3002,Mushroom Soup,dinner,190,6,10,18,Vegetarian
+3003,Chickpea Curry,dinner,450,17,12,62,Vegan
+3004,Roasted Turkey with Veggies,dinner,480,39,16,32,Gluten Free
