@@ -1,6 +1,8 @@
 import os
 import csv
 from typing import Dict, List, Tuple, Any, Iterable
+from meal_planner.config import SOLVER_EXE, CNF_DIR, RESULTS_DIR, MEALS_CSV
+
 
 
 # ----------------------------
@@ -37,21 +39,29 @@ def load_meals(csv_path: str) -> List[Dict[str, Any]]:
         meals = load_meals("meals_test.csv")
         meals[0]["name"]  # "Greek Yogurt"
     """
-
     meals: List[Dict[str, Any]] = []
+
     with open(csv_path, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f) #svaki red pretvara u rjecnik key-value
+        reader = csv.DictReader(f)
         for row in reader:
+            diets_raw = row.get("diets") or ""
+            diets_list = [d.strip() for d in diets_raw.split(";") if d.strip()]
+
+            dish_raw = row.get("dishTypes") or ""
+            dish_list = [d.strip() for d in dish_raw.split(";") if d.strip()]
+
             meals.append({
                 "id": int(row["id"]),
-                "name": row["name"],
-                "meal_type": row["meal_type"],
+                "name": row.get("name", ""),
+                "meal_type": (row.get("meal_type") or "").strip(),   # npr. "main course"
                 "calories": float(row["calories"]),
                 "protein_g": float(row["protein_g"]),
                 "fat_g": float(row["fat_g"]),
                 "carbs_g": float(row["carbs_g"]),
-                "diets": [d.strip() for d in row["diets"].split(";")] if row.get("diets") else [] # popis dijeta (razdvojenih sa ';'), ili prazna lista
+                "diets": diets_list,          # npr. ["Dairy Free", "Gluten Free"]
+                "dishTypes": dish_list,       # npr. ["dinner", "lunch", "main course", ...]
             })
+
     return meals
 
 
@@ -121,9 +131,16 @@ def index_meals(meals: List[Dict[str, Any]], meal_types: List[str]) -> Tuple[Dic
 
     for m in meals:
         meal_by_id[m["id"]] = m
-        t = m["meal_type"]
-        if t in meals_by_type:
-            meals_by_type[t].append(m)
+
+        for t in meal_types:
+            if t in ("breakfast", "lunch", "dinner"):
+                # slotovi dana dolaze iz dishTypes (jer u datasetu dinner/lunch nisu meal_type)
+                if t in m.get("dishTypes", []):
+                    meals_by_type[t].append(m)
+            else:
+                # ostali tipovi (npr. "main course") dolaze iz meal_type
+                if m.get("meal_type") == t:
+                    meals_by_type[t].append(m)
 
     return meals_by_type, meal_by_id
 
@@ -218,7 +235,7 @@ def build_var_mapping(
 # 3) CNF helper constraints
 # ----------------------------
 
-    """
+"""
     Pomoćne funkcije za generiranje CNF ograničenja.
 
     Clause:
@@ -245,7 +262,7 @@ def build_var_mapping(
     exactly_one_pairwise:
         Točno jedna varijabla mora biti istinita.
         Logički: (v₁ ∨ ... ∨ vₙ) ∧ ∧(¬vᵢ ∨ ¬vⱼ), ∀ i < j
-    """
+"""
 
 
 Clause = List[int]
@@ -258,7 +275,7 @@ def at_least_one(clauses: List[Clause], vars_: List[int]) -> None:
     #
     # → ne moze se dogoditi da su 5, 6 i 7 svi False
     if vars_:
-        clauses.append(vars_) # npr. [5, 6, 7]
+        clauses.append(vars_)  # npr. [5, 6, 7]
 
 
 def at_most_one_pairwise(clauses: List[Clause], vars_: List[int]) -> None:
@@ -334,7 +351,10 @@ def add_basic_constraints(
             slot_vars = []
 
             # prolazimo kroz sva jela tog tipa
-            for meal in meals_by_type[t]:
+            slot_meals = meals_by_type.get(t, [])
+            if not slot_meals:
+                raise ValueError(f"No meals available for meal_type='{t}'")
+            for meal in slot_meals:
                 var = var_for[(d, t, meal["id"])]
                 slot_vars.append(var)
 
@@ -441,7 +461,6 @@ def write_dimacs(path: str, clauses: List[Clause], num_vars: int, meta: Dict[str
         DIMACS CNF formata.
     """
 
-
     # ako dir ne postoji, stvori ga
     os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
 
@@ -454,8 +473,7 @@ def write_dimacs(path: str, clauses: List[Clause], num_vars: int, meta: Dict[str
         f.write(f"c clauses: {len(clauses)}\n\n")
 
         # problem line
-        f.write(f"p cnf {num_vars} {len(clauses)}\n") # p cnf <broj_varijabli> <broj_klauzula>
-
+        f.write(f"p cnf {num_vars} {len(clauses)}\n")  # p cnf <broj_varijabli> <broj_klauzula>
 
         # klauzule - literali odvojeni razmakom, zavrsava s 0
         for cl in clauses:
@@ -540,8 +558,8 @@ def build_cnf_instance(
 def main() -> None:
 
     # odredivanje putanje
-    base_dir = os.path.dirname(os.path.dirname(__file__))
-    csv_path = os.path.join(base_dir, "data", "raw", "meals_test.csv")
+    # (OVO sad uzimamo iz config.py da radi iz bilo kojeg direktorija)
+    csv_path = str(MEALS_CSV)
 
     # privremeni problem
     days = [1, 2, 3]
@@ -560,8 +578,9 @@ def main() -> None:
     )
 
     # write DIMACS
-    out_path = os.path.join(base_dir, "output", "weekly_plan.cnf")
-    meta = {"days": days, "meal_types": meal_types, "required_diets": required_diets} # sluzi za c komentare
+    # (OVO sad pišemo u CNF_DIR iz config.py)
+    out_path = str(CNF_DIR / "weekly_plan.cnf")
+    meta = {"days": days, "meal_types": meal_types, "required_diets": required_diets}  # sluzi za c komentare
 
     # funkcija koja pretvara cnf u standard -> stvara .cnf datoteku
     write_dimacs(out_path, clauses, num_vars, meta)

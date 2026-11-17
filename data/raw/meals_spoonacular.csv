@@ -1,0 +1,489 @@
+id,name,meal_type,calories,protein_g,fat_g,carbs_g,diets,dishTypes
+715769,Broccolini Quinoa Pilaf,main course,625.07,19.85,30.69,71.66,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,dinner;lunch;main course;main dish;side dish
+716408,"Greek-Style Baked Fish: Fresh, Simple, and Delicious",main course,344.33,27.77,12.4,28.01,Gluten Free;Pescatarian,dinner;lunch;main course;main dish
+664680,Vegetarian Mushroom Shepherd's Pie,appetizer,113.26,4.77,4.96,23.59,Dairy Free;Gluten Free,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+659109,Salmon Quinoa Risotto,main course,404.86,21.98,18.17,39.45,Dairy Free;Gluten Free;Pescatarian,dinner;lunch;main course;main dish;side dish
+664419,Vegan Colcannon Soup,appetizer,186.54,5.56,4.05,34.51,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan;Whole 30,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+648279,Italian Tuna Pasta,main course,463.7,37.7,2.91,70.33,Dairy Free;Pescatarian,dinner;lunch;main course;main dish;side dish
+633754,Baked Ratatouille,main course,1029.13,32.3,69.63,82.22,Gluten Free;Lacto Ovo Vegetarian;Primal,dinner;lunch;main course;main dish;side dish
+1095745,Mushroom Hummus Crostini,appetizer,450.17,20.54,10.35,72.38,Dairy Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+1095806,Spanish style salmon fillets,main course,944.54,52.9,59.92,51.4,Dairy Free;Gluten Free;Pescatarian;Whole 30,dinner;lunch;main course;main dish
+658753,Roma Tomato Bruschetta,appetizer,445.71,12.75,16.9,62.82,Dairy Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+641893,Easy Cheesy Pizza Casserole,main course,902.23,56.72,54.57,46.77,,dinner;lunch;main course;main dish;side dish
+716300,Plantain Pizza,main course,642.7,25.03,22.92,84.82,Dairy Free,dinner;lunch;main course;main dish
+646034,Guinness Braised Corned Beef and Cabbage,main course,584.92,29.21,23.5,61.36,Dairy Free,dinner;lunch;main course;main dish
+664737,Veggie Lasagna Rolls with Peppery Pecorino Marinara,main course,507.92,24.98,21.7,57.68,,dinner;lunch;main course;main dish
+640134,Corned Beef and Cabbage,main course,993.31,90.24,30.9,89.52,Gluten Free,dinner;lunch;main course;main dish
+664565,Vegetable Minestrone Soup,main course,412.48,18.6,4.36,79.46,,dinner;lunch;main course;main dish;soup
+639606,Classic Greek Moussaka,main course,847.48,42.49,52.44,55.85,,dinner;lunch;main course;main dish
+660266,Slow Cooked Corned Beef and Cabbage,main course,405.33,24.89,20.76,29.75,Dairy Free;Gluten Free;Whole 30,dinner;lunch;main course;main dish
+654125,Osso Buco,main course,444.76,46.33,18.05,15.6,Dairy Free,dinner;lunch;main course;main dish
+1095742,Winter Vegetable Minestrone Soup,main course,333.58,15.89,1.16,68.53,Dairy Free,dinner;lunch;main course;main dish;soup
+664678,Vegetarian Moussaka With Portabella,main course,377.56,12.24,8.85,66.46,Dairy Free;Gluten Free,dinner;lunch;main course;main dish
+640136,Corned Beef And Cabbage With Irish Mustard Sauce,main course,834.51,51.46,49.15,45.67,Gluten Free,dinner;lunch;main course;main dish
+648247,Italian Seafood Stew,main course,610.86,69.43,11.98,67.64,Dairy Free;Gluten Free;Paleolithic;Pescatarian;Primal;Whole 30,dinner;lunch;main course;main dish;soup
+648259,Italian String Beans With Anchovies and Breadcrumbs,main course,590.97,15.13,31.07,67.17,Dairy Free;Pescatarian,dinner;lunch;main course;main dish
+657312,Pumpkin gnocchi with basil and Parmesan,main course,610.55,22.55,25.36,75.65,,dinner;lunch;main course;main dish;side dish
+640693,Creamy Ratatouille Over Penne,side dish,308.03,8.95,11.93,44.12,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+1095740,Golden Beet Panzanella,side dish,442.11,11.53,23.98,50.52,Dairy Free;Lacto Ovo Vegetarian,side dish
+642095,Easy Skillet Garden Lasagna,main course,405.16,20.55,17.82,45.23,,dinner;lunch;main course;main dish
+879449,Cranberry Pecan Greek Yogurt Chicken Salad,main course,494.45,42.28,13.3,62.53,,dinner;lunch;main course;main dish
+656972,Potato Gnocchi With Kale and Mushrooms In A Goat Cheese Sauce,main course,382.36,15.95,10.03,58.62,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish;side dish
+646549,Heart Shaped Spinach Ravioli,main course,528.14,22.36,6.92,93.42,,dinner;lunch;main course;main dish;side dish
+647124,Homemade Thin Crust Pizza + Pesto + Potato,main course,504.4,14.5,19.2,68.98,,dinner;lunch;main course;main dish
+645646,Grilled Chicken Gyros With Tzatziki,main course,777.91,82.15,22.46,60.6,,dinner;lunch;main course;main dish
+1095836,Romanian Pea and Chicken Stew,main course,407.22,38.99,7.69,45.58,Dairy Free;Gluten Free,dinner;lunch;main course;main dish;soup
+1095751,Fresh Tomato Risotto with Grilled Green Vegetables,side dish,295.53,8.88,1.11,61.35,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+644476,German Goulash,main course,550.38,65.57,25.55,12.61,Dairy Free,dinner;lunch;main course;main dish
+647563,How Sweet It Is Sweet Potato Lasagne,main course,500.87,25.09,23.69,53.74,Gluten Free;Lacto Ovo Vegetarian,dinner;lunch;main course;main dish
+648238,Italian Sausage and Vegetable Soup,main course,470.76,22.76,28.26,33.02,Dairy Free;Gluten Free,dinner;lunch;main course;main dish;soup
+662294,Sun-Dried Tomato Romesco,unknown,896.9,45.04,65.24,41.41,Gluten Free;Primal,sauce
+648638,Julia Child's Coq au Vin,main course,778.29,35.2,41.15,55.05,Gluten Free;Primal,dinner;lunch;main course;main dish
+660292,Slow Cooker Minestrone Soup,appetizer,148.39,6.7,1.68,28.65,Dairy Free,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+645265,Great Greek Salad,main course,289.83,12.79,18.3,22.33,Gluten Free,dinner;lunch;main course;main dish;salad;side dish
+657933,Ratatouille Pasta,main course,690.96,24.51,37.37,69.05,,dinner;lunch;main course;main dish;side dish
+639599,Classic French Mussels,main course,501.23,31.53,28.32,19.25,Gluten Free;Pescatarian;Primal,antipasti;antipasto;appetizer;dinner;hor d'oeuvre;lunch;main course;main dish;snack;starter
+648275,Italian Tomato and Mozzarella Caprese,main course,269.15,28.14,13.78,9.39,Gluten Free;Lacto Ovo Vegetarian;Primal,dinner;lunch;main course;main dish;salad;side dish
+656571,Polla alla Parmigiana: Chicken Parmesan,main course,619.33,45.8,26.92,48.29,,dinner;lunch;main course;main dish
+649270,Lasagna - Spinach Rolls,unknown,442.84,32.52,24.8,27.68,Gluten Free;Primal,
+648190,Italian Pasta Salad with organic Arugula,main course,696.45,27.52,20.33,103.42,,dinner;lunch;main course;main dish;side dish
+633063,Austrian Goulash,main course,404.42,36.14,21.95,14.67,Dairy Free,dinner;lunch;main course;main dish
+715573,Simple Skillet Lasagna,main course,761.2,30.69,46.2,58.45,,dinner;lunch;main course;main dish
+651922,Minestrone,main course,403.12,15.23,11.53,63.35,Gluten Free,dinner;lunch;main course;main dish;soup
+642297,Eggplant Parmesan Roll-Ups,appetizer,670.23,20.63,44.78,49.7,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+1046983,Excellent No Fail and Easy Keto Zucchini Lasagna,main course,522.5,53.51,26.36,21.29,Gluten Free;Ketogenic,dinner;lunch;main course;main dish
+655400,Pear and Pesto Crostini,appetizer,452.05,12.17,25.74,46.15,,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+646729,Herbed Vegetables In A Feta Quiche With A Wild Rice Crust,main course,328.75,15.53,13.47,43.99,Gluten Free,dinner;lunch;main course;main dish
+640314,Crab Ravioli With Scallops and Gremolata,main course,633.25,46.33,30.46,44.11,Pescatarian,dinner;lunch;main course;main dish;side dish
+647974,Irish Colcannon,side dish,299.55,9.9,6.93,52.51,Gluten Free,side dish
+648048,Italian Beef Braciole,main course,620.06,40.07,31.41,41.26,,dinner;lunch;main course;main dish
+649354,Layered Greek Salad,side dish,134.55,8.66,5.78,13.15,Gluten Free;Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;salad;side dish;snack;starter
+662291,Sun-Dried Tomato and Leek Quiche,main course,681.21,20.11,42.81,59.87,Dairy Free,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+655847,Pesto Veggie Pizza,main course,825.9,31.92,36.91,92.93,,dinner;lunch;main course;main dish
+641962,Easy Eggplant Parmesan,main course,287.89,20.97,12.26,26.15,Gluten Free;Lacto Ovo Vegetarian;Primal,dinner;lunch;main course;main dish
+645384,Greek Yogurt Chicken Salad,main course,334.09,41.31,11.43,16.46,Gluten Free;Primal,dinner;lunch;main course;main dish
+650045,Lightened Ricotta Stuffed Shells With Italian Sausage Ragu,main course,419.08,29.45,14.22,46.83,,dinner;lunch;main course;main dish;side dish
+1098350,Light Greek Lemon Chicken Orzo Soup,main course,280.83,26.87,4.01,33.41,Dairy Free,dinner;lunch;main course;main dish;soup
+638236,Chicken Pasta Primavera - Flower Patch Farmgirl Style,main course,426.91,29.16,15.56,43.55,,dinner;lunch;main course;main dish
+663366,Thin Crust Genoa Salami Pizza,main course,476.74,19.29,13.25,70.02,,dinner;lunch;main course;main dish
+649225,Lamb Moussaka,main course,827.63,77.82,45.37,24.17,,dinner;lunch;main course;main dish
+663792,Transylvanian Goulash,main course,432.49,53.87,19.29,9.13,,dinner;lunch;main course;main dish
+642371,"Elk Italian Sausage Pizza With Ricotta Cheese, Sautéd Mushrooms and Onion",main course,745.09,54.1,29.86,65.68,,dinner;lunch;main course;main dish
+1095993,Slow Cooker Shanghai-Style Beef Borscht,main course,516.78,34.63,19.43,54.6,,dinner;lunch;main course;main dish;soup
+647656,Hungarian Goulash Soup,main course,791.01,31.63,59.43,38.95,Gluten Free;Primal,dinner;lunch;main course;main dish;soup
+658641,Roasted Ratatouille Gratin,side dish,388.98,13.79,22.21,34.11,,side dish
+634891,Best Chicken Parmesan,main course,635.73,53.34,26.02,43.87,,dinner;lunch;main course;main dish
+1005368,Panzanella Salad,main course,657.42,23.38,20.0,97.11,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish;salad;side dish
+660843,Spanakopita (Greek Spinach Pie),main course,632.92,24.51,40.97,44.15,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish
+799304,Greek Marinade with Yogurt,unknown,385.57,8.47,26.95,40.79,Gluten Free;Lacto Ovo Vegetarian;Primal,marinade;seasoning
+652856,My Favorite Minestrone,appetizer,354.96,11.68,21.52,30.08,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+660215,Skillet Lasagna Topped with Ricotta,main course,897.31,44.95,46.36,77.17,,dinner;lunch;main course;main dish
+658743,Roll Up Eggplant Lasagna,main course,700.9,31.25,28.3,84.16,,dinner;lunch;main course;main dish
+663227,The Best Quinoa Minestrone,main course,543.52,26.36,25.82,51.89,Gluten Free,dinner;lunch;main course;main dish;soup
+631824,(Lighter) Classic Eggplant Parmigiana,main course,304.68,16.5,15.85,29.52,Gluten Free;Primal,dinner;lunch;main course;main dish
+648176,Italian Meatloaf with Hard Boiled Eggs,main course,779.5,44.9,53.58,20.25,Dairy Free,dinner;lunch;main course;main dish
+1095810,Buffalo Mozzarella & Pepperoni Pizza with a Cauliflower Crust,main course,610.95,33.45,40.84,37.23,Gluten Free;Primal,dinner;lunch;main course;main dish
+652134,Mixed Paella,main course,394.09,28.05,10.46,45.69,Dairy Free;Gluten Free,dinner;lunch;main course;main dish
+1096161,Greek Chicken Sheet Pan Dinner with Green Beans and Feta,main course,360.68,40.07,8.67,33.46,Gluten Free,dinner;lunch;main course;main dish
+1095841,Spanish Gazpacho Soup,appetizer,169.75,4.64,8.33,21.26,Dairy Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+635686,Borscht Soup,appetizer,834.27,11.15,54.09,87.6,Gluten Free;Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+642325,Eggplant Parmesan,main course,342.47,13.52,17.09,39.2,,dinner;lunch;main course;main dish
+649850,Lemon-Pepper Fettucine Alfredo,main course,797.43,22.57,54.75,77.43,Gluten Free;Primal,dinner;lunch;main course;main dish;side dish
+637811,Chestnut Risotto,side dish,583.31,11.79,21.55,84.11,Dairy Free;Gluten Free;Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+647687,Ratatouille,main course,636.22,14.43,45.43,46.26,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish;side dish
+657250,Pumpkin and Sausage Lasagna,main course,876.57,29.99,70.52,30.38,,dinner;lunch;main course;main dish
+656820,Pork Shoulder Tacos with Chipotle Greek Yogurt and Coleslaw,main course,260.39,25.97,11.99,10.01,Gluten Free,dinner;lunch;main course;main dish
+657537,Quick and Easy Caprese Salad,main course,349.79,14.52,27.15,13.28,Gluten Free;Lacto Ovo Vegetarian;Primal,dinner;lunch;main course;main dish;salad;side dish
+657377,Pumpkin Ravioli With Browned Butter Sage Sauce,main course,812.73,33.89,40.27,78.75,,dinner;lunch;main course;main dish;side dish
+638002,Chicken Cacciatore,main course,583.66,47.5,31.11,25.97,,dinner;lunch;main course;main dish
+664396,Vegan Beet Borscht,appetizer,42.45,0.9,1.9,5.84,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan;Whole 30,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+657939,Ratatouille With Brie,main course,489.9,14.34,44.52,11.41,Gluten Free;Lacto Ovo Vegetarian;Primal,dinner;lunch;main course;main dish;side dish
+664689,Vegetarian Ratatouille,side dish,95.73,2.55,5.16,12.12,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Paleolithic;Primal;Vegan;Whole 30,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+649292,Lasagne Roll Ups,appetizer,570.29,28.15,25.15,59.25,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+638088,Chicken Farfalle with Low-Fat Alfredo Sauce,main course,673.58,43.39,9.28,97.47,,dinner;lunch;main course;main dish;side dish
+643450,Fresh Cherry Scones,dessert,335.6,9.12,9.82,53.72,Gluten Free;Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+636610,"Butternut, Chicken and Feta Risotto",main course,620.74,37.87,27.79,53.67,Gluten Free,dinner;lunch;main course;main dish;side dish
+651646,Mexican Lasagna with Chicken & Black Bean,main course,599.02,28.49,23.47,73.58,Gluten Free,dinner;lunch;main course;main dish
+1697697,One-Pan Butternut Squash Risotto with Mushrooms,main course,481.63,13.7,13.26,80.58,Gluten Free,dinner;lunch;main course;main dish;side dish
+662264,summer vegetable pizza,main course,613.84,26.71,20.42,84.67,,dinner;lunch;main course;main dish
+649395,Lean Shepherd's Pie,main course,611.16,44.1,26.27,51.05,Gluten Free,dinner;lunch;main course;main dish
+642281,Eggplant Caprese Stack Appetizers,main course,627.64,23.11,46.02,33.68,,dinner;lunch;main course;main dish;salad;side dish
+636963,Caprese-Style Stuffed Tomatoes with Balsamic Reduction,side dish,646.47,26.42,32.76,60.0,,side dish
+658024,Minestrone Soup,main course,355.73,19.98,16.49,33.94,,dinner;lunch;main course;main dish;soup
+636356,Bruschetta Stuffed Potatoes,side dish,553.65,11.81,26.21,71.28,Gluten Free;Lacto Ovo Vegetarian,side dish
+649280,Lasagna Silvia,main course,522.67,27.43,33.77,31.03,Gluten Free,dinner;lunch;main course;main dish
+636360,Brussels Sprout Carbonara with Fettuccini,main course,549.22,37.54,17.25,63.69,,dinner;lunch;main course;main dish
+918784,Baked Italian Nachos,main course,448.43,36.68,21.01,30.83,Gluten Free,antipasti;antipasto;appetizer;dinner;fingerfood;hor d'oeuvre;lunch;main course;main dish;snack;starter
+1095746,Lemon and Edamame Risotto with Pecans,side dish,366.21,8.45,13.99,52.83,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+638235,Chicken Parmesan With Pasta,main course,556.8,42.52,17.02,57.2,,dinner;lunch;main course;main dish
+636599,Butternut Squash Gnocchi With Whiskey Cream Sauce,main course,539.13,14.5,23.06,38.37,,dinner;lunch;main course;main dish;side dish
+654928,Pasta With Italian Sausage,main course,885.75,32.04,48.94,72.64,,dinner;lunch;main course;main dish;side dish
+648641,Julia Child's Ratatouille,side dish,199.28,2.43,16.81,12.14,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Paleolithic;Primal;Vegan;Whole 30,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+644205,Garden Vegetable Ravioli With Tomato Brodo,side dish,349.5,10.28,17.4,41.2,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+715569,Strawberry Cheesecake Chocolate Crepes,dessert,618.39,16.47,37.95,55.54,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+1096168,Sweet Potato Gnocchi tossed in Garlic Sage Olive Oil,side dish,331.43,8.84,5.2,59.89,Dairy Free;Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+656329,Pizza bites with pumpkin,appetizer,310.06,15.57,22.48,13.58,Gluten Free;Lacto Ovo Vegetarian;Primal,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+656548,Polenta Pie With Italian Toppings,unknown,334.33,10.23,21.88,25.35,Gluten Free,
+649340,Layered Baked Eggplant Parmesan,main course,514.65,32.68,23.78,46.09,,dinner;lunch;main course;main dish
+654327,Paella for Four; A Wonderful Spanish Mixed Seafood Stew,side dish,445.46,14.81,20.14,51.26,Dairy Free;Gluten Free,side dish
+642091,Easy Shepherd's Pie (Beef And/or Lamb Combo),main course,643.87,29.48,42.53,36.05,,dinner;lunch;main course;main dish
+636593,Butternut Squash Pizza,main course,925.11,46.07,51.28,72.43,,dinner;lunch;main course;main dish
+653238,Noodle Free Eggplant and Spinach Lasagna,main course,264.6,15.45,16.09,17.37,Gluten Free;Primal,dinner;lunch;main course;main dish
+652651,Mushroom Crepes with Vegetarian Sauce,breakfast,184.39,7.11,6.4,24.45,Lacto Ovo Vegetarian,breakfast;brunch;morning meal
+1096012,Skinny Chicken Parmesan with Spaghetti Squash,main course,372.4,39.05,12.87,25.34,,dinner;lunch;main course;main dish
+1096208,Spinach Goats Cheese Roulade Main Dish,main course,363.16,18.78,30.65,5.42,Gluten Free;Ketogenic;Lacto Ovo Vegetarian;Primal,dinner;lunch;main course;main dish
+657159,Prosciutto and Mushroom Ravioli With Basil Browned Butter Sauce,main course,540.59,16.4,29.45,52.41,,dinner;lunch;main course;main dish;side dish
+664233,Unctuous Mushroom Risotto,main course,534.4,20.06,20.06,67.54,Gluten Free,dinner;lunch;main course;main dish;side dish
+659037,Salmon and Broccoli Crepes,breakfast,208.28,16.74,8.54,17.65,Pescatarian,breakfast;brunch;morning meal
+653819,Orange Caprese Salad,side dish,132.71,2.38,8.83,12.42,Gluten Free;Lacto Ovo Vegetarian;Primal,antipasti;antipasto;appetizer;hor d'oeuvre;salad;side dish;snack;starter
+651381,Meaty One Dish Risotto,main course,232.92,15.55,11.65,10.86,Gluten Free;Primal,dinner;lunch;main course;main dish;side dish
+645315,Greek Inspired Spring Omelet,main course,133.43,13.55,5.94,7.28,Gluten Free;Lacto Ovo Vegetarian;Primal,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+1697743,Lasagne al Forno with Bolognese and Béchamel Sauce,main course,954.69,41.28,57.21,65.31,,dinner;lunch;main course;main dish
+644830,Gluten free focaccia,unknown,340.58,6.44,10.74,54.72,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,
+648718,Kale Colcannon,side dish,289.04,5.94,12.6,40.29,Gluten Free;Lacto Ovo Vegetarian,side dish
+648118,Sauteed Italian Eggplant Side Dish,side dish,180.85,2.32,14.66,13.04,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Paleolithic;Primal;Vegan;Whole 30,side dish
+640064,Coriander Ravioli With Pumpkin & Cottage Cheese Filling,main course,391.7,18.91,7.13,63.21,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish;side dish
+644885,Gluten Free Vegan Gnocchi,side dish,132.62,3.54,0.37,29.46,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+636096,Bridget Jones's Shepherd's Pie,main course,817.02,31.2,59.25,39.9,,dinner;lunch;main course;main dish
+663771,Traditional Panzanella,side dish,356.12,10.08,15.85,44.88,Dairy Free;Lacto Ovo Vegetarian;Vegan,side dish
+649183,Lamb and Fresh Goat Cheese Roulade,main course,372.55,16.64,33.43,1.13,Gluten Free,dinner;lunch;main course;main dish
+650654,Make Olive Garden’s Delicious Pasta Fagioli At Home,main course,284.88,21.18,9.84,29.51,,dinner;lunch;main course;main dish;soup
+653368,Nutmeg and Rosemary Butternut Squash Risotto,main course,532.47,15.15,15.62,79.66,Gluten Free,dinner;lunch;main course;main dish;side dish
+663595,Tomato Free Mexican Lasagna,main course,323.55,16.32,19.09,25.64,Gluten Free,dinner;lunch;main course;main dish
+636355,BRUSCHETTA STUFFED PORTOBELLOS,side dish,520.7,31.63,23.57,47.33,,side dish
+1095731,Peach and Pistachio Greek Yogurt Bowl,main course,265.39,17.22,14.53,19.69,Gluten Free;Lacto Ovo Vegetarian;Primal,dinner;lunch;main course;main dish
+644917,Gnocchi and Wilted Spinach Salad,main course,578.48,15.0,29.71,67.61,Dairy Free,dinner;lunch;main course;main dish;salad;side dish
+644482,German Meatloaf Falscher Hase,main course,381.06,38.75,20.51,7.95,Dairy Free,dinner;lunch;main course;main dish
+646071,Gyros,main course,496.01,22.05,22.63,50.28,,dinner;lunch;main course;main dish
+826557,Italian Stuffed Pepper Cauliflower Rice Skillet,side dish,600.94,36.64,44.55,14.1,Gluten Free;Ketogenic;Primal,side dish
+650119,Linguine Alla Carbonara,main course,728.36,32.14,24.82,92.54,,dinner;lunch;main course;main dish
+1697577,Spanish Sardines Pasta,main course,920.17,40.2,42.44,96.3,Pescatarian,dinner;lunch;main course;main dish;side dish
+1095888,Irish Brown Soda Bread,breakfast,182.58,6.85,2.43,34.11,Lacto Ovo Vegetarian,breakfast;brunch;morning meal
+660883,Spanish “Ketchup” – Romesco Sauce,unknown,82.61,1.92,5.14,8.21,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,sauce
+656049,"Pierogies with Caramelized Onion, Cabbage, and Potato",appetizer,446.54,8.93,16.45,67.42,Dairy Free,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+633884,Baked Ziti Or Rigatoni,main course,869.28,45.14,31.62,101.39,,dinner;lunch;main course;main dish;side dish
+636961,Caprese Stuffed Chicken,side dish,314.89,31.63,16.54,8.71,Gluten Free;Primal,side dish
+649768,Lemon Rosemary Risotto,main course,539.89,12.49,21.07,71.29,Gluten Free,dinner;lunch;main course;main dish;side dish
+642595,Farmer's Market Wild Mushroom Risotto,side dish,569.36,11.04,29.29,60.95,Gluten Free,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+650651,Make It Quick Italian Shrimp Rolls,main course,380.88,37.24,8.37,40.21,Pescatarian,antipasti;antipasto;appetizer;dinner;hor d'oeuvre;lunch;main course;main dish;snack;starter
+1182871,Shrimp Scampi Zoodles,main course,223.26,16.77,15.07,7.51,Dairy Free;Gluten Free;Ketogenic;Paleolithic;Pescatarian;Primal;Whole 30,dinner;lunch;main course;main dish
+652652,Mushroom Crepes,breakfast,186.18,7.23,1.21,24.45,Dairy Free;Lacto Ovo Vegetarian;Vegan,breakfast;brunch;morning meal
+1095830,Italian Style Baked Chicken Thighs,main course,761.84,47.25,59.79,7.88,Gluten Free;Ketogenic;Primal,dinner;lunch;main course;main dish
+641911,"Easy Chicken, Kielbasa and Shrimp Paella",main course,385.4,32.61,8.78,42.48,Dairy Free;Gluten Free,dinner;lunch;main course;main dish
+652722,Mushroom-Pea Risotto,side dish,219.95,8.89,3.43,38.24,Gluten Free,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+652760,Mussels in Irish Ale,appetizer,286.44,11.38,19.98,10.09,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+654005,Orecchiette Carbonara,main course,489.33,19.92,19.29,58.51,,dinner;lunch;main course;main dish
+632781,Arugula & Feta Pasta,main course,598.2,17.28,38.47,46.34,,dinner;lunch;main course;main dish;side dish
+658803,Rosemary Rum Raisin Soda Bread with Pecans,dessert,173.48,4.85,3.61,28.95,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+643372,French Onion Salisbury Steak,main course,635.1,33.52,41.02,29.51,,dinner;lunch;main course;main dish
+647659,Hungarian Plum Dumplings,appetizer,135.92,3.18,2.38,27.22,Dairy Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+665285,Whole Wheat Focaccia Bread with Caramelized Onion,bread,274.62,8.63,10.48,40.46,,bread
+642230,Egg Souffle With Bacon and Asparagus,main course,795.54,32.4,69.72,10.43,Gluten Free;Ketogenic;Primal,dinner;lunch;main course;main dish
+679535,Greek Spring Salad: Prasini Salata,side dish,178.28,2.21,13.89,13.19,Gluten Free,antipasti;antipasto;appetizer;hor d'oeuvre;salad;side dish;snack;starter
+1697547,Homemade Spinach Ricotta Ravioli with Sage Butter Sauce,side dish,457.59,11.2,33.86,28.22,,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+644889,Gluten-Free Lamb Moussaka,main course,630.98,40.95,39.87,30.75,Gluten Free;Primal,dinner;lunch;main course;main dish
+1095851,Simple Broccoli Cheddar Quiche,main course,441.62,23.67,26.57,27.38,,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+1095834,German Braised Red Cabbage,side dish,230.33,3.92,3.45,39.08,Gluten Free;Lacto Ovo Vegetarian,side dish
+648097,Italian Chicken With Pepper,main course,467.63,36.42,32.57,5.68,Dairy Free;Gluten Free;Ketogenic;Paleolithic;Primal;Whole 30,dinner;lunch;main course;main dish
+642147,Easy Weeknight Beef Stroganoff,main course,277.37,27.14,8.57,22.17,,dinner;lunch;main course;main dish
+638493,Chicken/sweet Potato Roulade With Goat Cheese Sauce,main course,230.82,19.5,7.78,20.67,Gluten Free;Primal,dinner;lunch;main course;main dish
+664031,Turkey Goulash By Mommie Cooks,main course,291.31,25.34,14.06,15.94,,dinner;lunch;main course;main dish
+643330,French Dips With Au Jus,main course,290.21,27.47,11.87,18.14,,dinner;lunch;main course;main dish
+657956,"Ravioli With Arugula, Pine Nuts, Raisins & Cream",main course,883.99,28.98,52.04,77.03,,dinner;lunch;main course;main dish;side dish
+654573,Panzanella Toscana,side dish,341.99,8.39,18.53,36.56,Dairy Free;Lacto Ovo Vegetarian;Vegan,side dish
+662346,Super Kale and Sausage Lasagna,main course,847.77,32.56,33.13,104.35,,dinner;lunch;main course;main dish
+639794,Coconut milk risotto (Arborio rice pudding),side dish,496.47,6.54,25.3,64.11,Dairy Free;Fodmap Friendly;Gluten Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+663553,Tomato and Bacon Pizza With Rice Crust,appetizer,162.78,8.91,7.29,15.56,Gluten Free,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+632046,Alaskan Smoked Salmon Nicoise Salad With Alouette Crumbled Feta,side dish,131.85,6.79,6.52,13.75,Gluten Free;Pescatarian;Primal,antipasti;antipasto;appetizer;hor d'oeuvre;salad;side dish;snack;starter
+640869,Crock Pot Shredded French Dip,main course,993.67,96.91,53.25,32.88,Dairy Free,dinner;lunch;main course;main dish
+660861,"Spanish Gazpacho Soup In The Raw With Broiled ""Cheese"" Toast",appetizer,298.03,5.24,18.46,28.84,Dairy Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+643781,Fried Ravioli & Mint Parsley Pesto,unknown,784.1,17.47,62.02,42.18,,condiment;dip;sauce;spread
+1095832,Traditional Focaccia Bread,unknown,196.49,3.99,7.37,28.31,Dairy Free;Lacto Ovo Vegetarian;Vegan,
+631756,Savory Radicchio and Prosciutto Crostini Topped with Sweet Syrupy Sapa,appetizer,113.71,4.59,3.34,16.79,,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+651965,Mini Meatball & Ravioli Soup With Garlic Croutons,main course,760.16,38.12,50.31,39.19,,dinner;lunch;main course;main dish;soup
+639900,Colcannon,side dish,162.85,4.75,6.34,23.68,Gluten Free,side dish
+634779,Beet Gnocchi With Steak and Brown Butter Sauce,main course,603.5,28.63,43.77,26.19,,dinner;lunch;main course;main dish;side dish
+649431,Leek and Mushroom Quiche,main course,453.92,18.31,26.37,37.06,,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+648300,Italian-Style Meatloaf,main course,186.54,25.59,5.88,7.21,Dairy Free;Gluten Free;Paleolithic;Primal;Whole 30,dinner;lunch;main course;main dish
+637478,Chavrie Spinach Quiche,appetizer,259.64,10.06,18.43,14.06,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+652624,Mushroom and Parmesan Brown Rice Risotto,main course,524.96,14.54,32.34,44.86,Gluten Free,dinner;lunch;main course;main dish;side dish
+1096205,Zucchini Feta Roulade,main course,442.26,24.13,29.43,20.36,Gluten Free;Lacto Ovo Vegetarian;Primal,dinner;lunch;main course;main dish
+649147,La Panzanella,side dish,341.1,8.28,18.5,36.46,Dairy Free;Lacto Ovo Vegetarian;Vegan,side dish
+648565,Jen's Swedish Meatballs,main course,463.86,28.89,32.63,11.65,Dairy Free;Ketogenic,dinner;lunch;main course;main dish
+1095794,Spanish Tortilla,main course,260.15,18.7,11.9,19.18,Fodmap Friendly;Gluten Free,dinner;lunch;main course;main dish
+1054737,How to make the World’s Greatest Lasagna Roll Ups,main course,424.14,22.06,16.02,46.77,,dinner;lunch;main course;main dish
+658384,Risotto With Fresh Peas,main course,506.25,17.02,19.44,59.86,Gluten Free,dinner;lunch;main course;main dish;side dish
+659358,Sausage Calzone,main course,934.14,42.85,58.95,60.98,,dinner;lunch;main course;main dish
+664481,Vegan Risotto Cakes,side dish,355.77,7.41,13.08,53.05,Dairy Free;Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+631863,3 Cheese Ravioli,main course,489.14,22.49,25.07,42.43,,dinner;lunch;main course;main dish;side dish
+662605,"Sweet Potato, Sausage and Caramelized Onion Pizza",appetizer,366.06,10.14,17.9,41.04,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+653777,Open Ravioli With Butternut Squash and Amaretti,main course,686.31,13.24,56.23,35.36,,dinner;lunch;main course;main dish;side dish
+1095817,Super Food Trail Mix,side dish,230.93,6.48,16.45,17.21,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Paleolithic;Primal;Vegan;Whole 30,side dish
+633752,Baked Ravioli & Meat Sauce,main course,630.97,31.66,34.1,50.09,,dinner;lunch;main course;main dish;side dish
+637054,Caramelized Onion and Bacon Pizza,main course,548.6,26.45,32.9,38.1,,dinner;lunch;main course;main dish
+652686,Mushroom Risotto,side dish,325.75,7.48,9.09,48.25,Gluten Free,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+633133,Avocado Chicken Parmigiana,appetizer,298.3,11.06,18.74,21.54,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+663745,Totally Fresh Tomato Lasagna,main course,540.76,25.44,31.46,41.76,,dinner;lunch;main course;main dish
+653500,"Oatmeal, Apricot, Walnut Soda Bread",dessert,357.15,10.47,11.26,55.74,,breakfast;brunch;dessert;morning meal
+645020,Golden Potato and Caramelized Onion Flat Bread Pizza,appetizer,328.49,6.13,14.61,43.81,Dairy Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+650700,Mama Mia's Minestrone,main course,201.72,13.9,9.17,15.99,,dinner;lunch;main course;main dish;soup
+636392,Buckwheat Crepes,dessert,374.36,13.18,13.98,54.68,Dairy Free;Gluten Free;Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+1095945,Tuna Sandwich Savory Cake (Swedish Smörgåstårta),appetizer,203.74,9.32,11.07,17.12,Pescatarian,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+657511,Quiche with Swiss Chard and Mushroom,main course,392.68,12.47,27.27,24.9,Lacto Ovo Vegetarian,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+641974,Easy Gift Lasagna,main course,307.27,17.47,17.93,18.61,,dinner;lunch;main course;main dish
+647895,Individual Tiramisu Parfaits,dessert,569.47,10.84,36.01,50.85,,dessert
+640767,Crepes Suzette,dessert,618.91,11.49,39.95,54.81,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+647661,Hungarian Potato Soup,appetizer,302.09,10.92,12.02,38.64,Gluten Free,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+633883,Baked Ziti Casserole,side dish,234.92,10.65,10.91,25.15,,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+67308,Chocolate Souffle,dessert,503.35,9.98,30.54,47.12,,antipasti;antipasto;appetizer;dessert;hor d'oeuvre;snack;starter
+661249,Spinach & Ham Quiche,appetizer,304.63,10.0,20.2,20.84,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+658682,Roasted Tomato Crostini with Olive Tapenade,appetizer,352.08,13.71,26.63,15.51,,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+649977,Lick-Your-Plate Amazing Tiramisu,unknown,275.46,7.62,15.24,26.59,Dairy Free,
+639825,Coconut Thai Risotto With Seared Scallops,side dish,318.09,9.0,16.44,35.65,Dairy Free;Gluten Free;Pescatarian,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+659459,Savory Carrot Souffle,side dish,331.68,11.99,22.63,20.7,,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+1096086,Chorizo Lasagna Rolls,main course,397.11,22.54,17.88,37.56,,dinner;lunch;main course;main dish
+648923,King Crab Risotto,main course,561.49,14.73,33.3,49.78,Gluten Free;Pescatarian,dinner;lunch;main course;main dish;side dish
+639557,Clams With Spanish Sausage,main course,410.58,16.61,17.11,24.72,Dairy Free;Gluten Free,dinner;lunch;main course;main dish
+633830,Baked Swedish Pancake,breakfast,524.74,15.49,14.85,84.09,,breakfast;brunch;morning meal
+648006,Irish Soda Bread By Mommie Cooks,dessert,380.88,9.94,8.45,65.49,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+639637,Classic scones,breakfast,398.3,9.17,12.65,61.26,Lacto Ovo Vegetarian,breakfast;brunch;morning meal
+637042,Caramelised Onion and Mushroom Quiche,main course,428.19,13.75,28.71,29.25,,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+660842,Spanakopita Cups,side dish,167.28,3.71,11.23,13.15,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+634699,Beef Stroganoff w Bella Mushrooms,appetizer,341.24,9.16,17.15,39.51,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+1096190,Leek and goat’s cheese quiche,appetizer,234.82,11.85,15.51,13.21,Gluten Free;Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+637348,Celery Apple Risotto With Crispy Pancetta,side dish,419.91,8.83,12.29,68.74,Gluten Free,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+644504,German White Chocolate Cake,dessert,583.47,13.8,45.89,33.29,,dessert
+655300,Peanut Butter Cup Trifle,dessert,808.68,15.96,51.42,79.52,,dessert
+637463,Charlotte Tiramisu Cake With A Hint Of Baileys - Heaven In Mouth,dessert,587.44,11.8,31.01,62.65,,dessert
+643362,French Onion Marsala Soup,main course,515.08,19.27,33.94,27.24,,dinner;lunch;main course;main dish;soup
+649988,Light and Easy Alfredo,main course,501.29,16.18,31.61,38.2,,dinner;lunch;main course;main dish
+642559,Fallen Chocolate Cakes With Spanish Paprika,dessert,451.6,7.65,41.71,22.9,Lacto Ovo Vegetarian,dessert
+655525,Pecan Pumpkin Pie Dessert Pizza with Maple Whipped Cream,dessert,392.79,6.53,29.01,29.92,,dessert
+644488,German Rhubarb Cake with Meringue,dessert,200.67,4.7,3.69,38.5,Dairy Free;Lacto Ovo Vegetarian,dessert
+636286,Brown Butter and Sage Ravioli,main course,984.99,32.7,71.01,55.18,,dinner;lunch;main course;main dish;side dish
+654567,Panna Cotta with Apricot Sauce,dessert,663.1,8.18,50.53,46.02,Gluten Free,dessert
+648010,Irish Whiskey Pie,dessert,387.2,8.31,12.94,57.03,Lacto Ovo Vegetarian,dessert
+640398,Cranberry Orange Scones,dessert,151.22,2.66,2.32,30.56,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+655698,Pepperoni Pizza Muffins,breakfast,304.38,10.32,18.72,23.96,,breakfast;brunch;morning meal
+659463,Savory Cheese Dill Scones,dessert,216.02,5.93,10.67,24.35,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+635375,Blue Cornmeal Dried Blueberry and Pinon Nut Biscotti,dessert,216.49,3.94,6.9,35.7,Dairy Free;Lacto Ovo Vegetarian,dessert
+654967,Pastel Caprese,main course,375.46,12.17,20.25,33.71,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish;salad;side dish
+640085,Corn Flan Side Dish,unknown,198.77,12.47,9.8,17.35,Gluten Free,
+665776,Zucchini Quiche & Almond Flax Crust,main course,388.65,13.37,29.95,20.09,,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+644965,"Goat Cheese, Fig And Proscuitto Crostini",appetizer,467.03,6.09,15.03,77.56,Dairy Free,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+652605,Mushroom & Gruyere Quiche,appetizer,255.53,10.5,17.25,15.58,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+644785,Gluten And Dairy Free Alfredo Lasagna,main course,390.11,18.92,18.78,34.32,,dinner;lunch;main course;main dish
+1096246,Apple Cinnamon Quiche,main course,607.2,16.65,48.79,27.26,,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+652672,Mushroom Gnocchi,side dish,379.89,10.2,27.8,23.31,,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+634847,Berry and White Chocolate Trifle,dessert,432.54,6.92,20.36,40.39,,dessert
+637675,Cheesy Potato Corn Scones,breakfast,247.83,7.34,12.01,27.93,Lacto Ovo Vegetarian,breakfast;brunch;morning meal
+636970,Caramel Almond Berry Trifle,dessert,191.04,4.84,4.29,34.08,Gluten Free,dessert
+658512,Roasted Broccoli,side dish,139.91,1.29,14.17,3.18,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan;Whole 30,side dish
+660709,Southwest Blt Crostini,appetizer,288.98,4.79,25.64,10.78,,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+650650,Make Ahead Quiche,main course,310.9,13.51,21.75,15.02,,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+642096,Easy Shrimp Scampi,main course,261.7,23.32,15.49,3.0,Gluten Free;Pescatarian;Primal,dinner;lunch;main course;main dish
+664284,Vanilla and Lime Flan By Esperanza Platas Alvarez (Planet Food Mexico),dessert,410.55,12.39,11.95,66.17,Gluten Free;Lacto Ovo Vegetarian,dessert
+649441,Leek Flan,unknown,236.43,4.33,19.45,12.68,Gluten Free;Lacto Ovo Vegetarian;Primal,
+649419,Leche Flan (Caramel Flan),dessert,165.51,7.23,12.04,5.8,Gluten Free;Lacto Ovo Vegetarian,dessert
+653362,Nutella frangipane empanadas,appetizer,694.01,11.9,51.34,49.01,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+661725,Strawberries and Cream Scones,dessert,286.33,5.04,9.4,46.93,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+648084,Italian Caprese Sliders,appetizer,252.06,13.22,20.67,2.72,Gluten Free;Ketogenic;Primal,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+1061943,How to Make the Ultimate Christmas Fruit Pizza,appetizer,479.55,5.78,24.08,61.08,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+663448,Tiramisu Infused With Amaretto (Eggless!),dessert,227.23,4.62,12.49,22.74,,dessert
+654523,Paneer & Fig Pizza,main course,363.56,16.22,22.65,25.91,,dinner;lunch;main course;main dish
+661757,Strawberry Basil Italian Ice,dessert,249.3,0.5,0.22,67.11,Dairy Free;Fodmap Friendly;Gluten Free;Lacto Ovo Vegetarian;Vegan,dessert
+643175,"Focaccia with Tomato, Green Onion and Garlic",bread,412.29,11.27,13.68,63.13,,bread
+646348,Havarti and Asparagus Quiche,appetizer,536.77,11.73,36.94,41.7,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+650602,Madeleines With Irish Whiskey Fudge,dessert,584.13,7.67,30.44,71.32,,dessert
+633399,Bailey's Irish Cream Crepes With Creme,dessert,474.31,7.34,24.26,54.91,Gluten Free,breakfast;brunch;dessert;morning meal
+716407,Simple Whole Wheat Crepes,dessert,272.48,10.25,14.11,27.46,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+1095839,Pernik - Czech Spice Cake,dessert,270.32,4.29,9.71,42.38,,dessert
+643851,Frikadellen German Meat Patties,appetizer,150.12,8.87,9.65,6.72,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+641755,Durian Panna Cotta,dessert,156.5,3.83,5.98,23.48,Gluten Free,dessert
+646402,Hazelnut Mexican Chocolate Biscotti,dessert,190.55,4.37,9.76,24.3,,dessert
+633078,Authentic Italian Biscotti,dessert,54.31,1.37,1.98,8.17,Dairy Free;Lacto Ovo Vegetarian,dessert
+649853,Lemon-Poppy Seed Scones,dessert,381.64,5.85,23.92,36.81,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+654887,Pasta Shells With Ricotta Cheese Stuffing,side dish,161.09,8.02,7.69,15.07,,antipasti;antipasto;appetizer;hor d'oeuvre;side dish;snack;starter
+1095797,Lemon Rum Crêpes,dessert,332.52,6.34,17.18,36.31,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+651956,Mini eggplant pizza,appetizer,324.98,10.67,30.6,2.62,Gluten Free;Primal,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+641651,Dried Fruit and Ginger Scones,dessert,272.91,4.55,11.08,39.3,,breakfast;brunch;dessert;morning meal
+660225,Skillingsbollar - Norwegian Cinnamon and Sugar Rolls,bread,319.24,5.83,10.06,51.82,Lacto Ovo Vegetarian,bread
+650718,Mandarin and Ruby Red Grapefruit Tiramisu,dessert,405.03,7.14,25.3,38.94,,dessert
+639590,Classic Custard Quiche Lorraine,appetizer,352.62,9.96,28.06,15.4,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+643400,French Style Almond Saffron Cake,dessert,406.68,7.57,26.43,36.11,Lacto Ovo Vegetarian,dessert
+658681,Roasted Tomato and Garlic Quiche,appetizer,271.29,11.03,18.86,14.54,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+637477,Chavrie Fresh Goat Cheese Souffle,main course,289.04,14.45,22.71,6.61,,dinner;lunch;main course;main dish
+652592,Multigrain Tandoori Pizza With Paneer Tikka,main course,504.51,22.08,33.1,30.12,,dinner;lunch;main course;main dish
+1504227,Easy Italian Meatballs,main course,238.15,13.48,17.58,5.6,Ketogenic,dinner;lunch;main course;main dish
+664585,"Vegetable Quiche Made With Fresh Tomatoes, Spinach, Basil and Goat Cheese",appetizer,68.84,4.77,4.44,2.63,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+636962,Caprese Quick Bread,breakfast,117.75,5.47,4.64,14.16,Lacto Ovo Vegetarian,breakfast;brunch;morning meal
+660868,Spanish Meatballs In Tomato Sauce,appetizer,136.54,5.63,8.64,9.49,Dairy Free,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+642614,Fast Tiramisu,dessert,433.79,6.99,34.49,21.3,,dessert
+634070,Banana Creme Brulee,dessert,290.47,3.0,22.45,21.31,Gluten Free;Lacto Ovo Vegetarian,dessert
+637513,Cheddar Pecan Cocktail Biscotti,dessert,71.57,2.34,3.63,7.59,Lacto Ovo Vegetarian,dessert
+642413,English Berry Trifle,dessert,268.45,3.85,9.62,42.6,Gluten Free,dessert
+648119,Italian Fig Cookies,dessert,76.07,1.06,4.01,9.24,Dairy Free,dessert
+644953,Goat Cheese Pesto Pizza,main course,517.3,12.35,27.56,54.4,,dinner;lunch;main course;main dish
+642777,Fig and Goat Cheese Pizza With Pesto,main course,501.12,13.99,27.87,46.92,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish
+663749,Traditional Almond Biscotti,dessert,100.75,2.77,3.69,14.67,Dairy Free;Lacto Ovo Vegetarian,dessert
+639062,Chocolate Infused Churros,dessert,278.69,2.68,22.11,18.23,Lacto Ovo Vegetarian,dessert
+1697769,Irish Coffee Chocolate Mousse,dessert,377.35,4.36,20.54,41.13,Gluten Free,dessert
+658326,Ricotta Chocolate Chips Scones,dessert,291.95,5.92,12.18,39.92,,breakfast;brunch;dessert;morning meal
+638784,Choco Coco Loco Empanada Dessert,appetizer,282.51,4.94,16.25,29.88,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+658132,Reduced Fat Blueberry Cheesecake Crepes,dessert,162.21,5.89,4.73,24.0,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+654657,Parmesan Cheese Scones,breakfast,245.48,7.7,16.86,16.14,,breakfast;brunch;morning meal
+636954,Caprese Pesto Margherita Stackers,unknown,87.77,3.17,5.65,6.46,,condiment;dip;sauce;spread
+635394,Blueberry & Orange Maple Scones,dessert,278.56,3.32,14.84,33.32,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+632706,Argentine-Style Empanadas,appetizer,284.22,8.57,22.99,12.25,Gluten Free,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+663351,The Ultimate Tiramisu,dessert,536.56,7.8,35.35,43.95,,dessert
+631877,5 Minute Tiramisu,unknown,290.91,5.09,10.36,39.42,Dairy Free,
+645246,Graveyard Cups,side dish,345.28,5.95,11.92,54.97,,side dish
+633337,"Bacon Wrapped Dates with Manchego, Romesco Sauce",appetizer,278.16,7.67,18.42,22.08,Gluten Free,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+653854,Orange Creme Brulee,dessert,448.21,5.13,33.27,29.53,Gluten Free;Lacto Ovo Vegetarian,dessert
+651985,"Mini Tiramisu (For Two 4"" Spring Form Pans)",dessert,534.77,10.96,31.43,42.64,,dessert
+636364,Brussels Sprouts Lardons With Cherries and Walnuts,side dish,205.04,4.13,15.66,13.04,Dairy Free;Gluten Free;Paleolithic;Primal;Whole 30,side dish
+647065,Homemade Pierogies with Sauteed Onions,appetizer,212.33,2.33,17.61,11.91,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+640429,Cranberry Walnut Biscotti,dessert,289.92,4.45,13.5,39.51,,dessert
+656817,Pork Schnitzel And Apple Salad,main course,1119.28,75.93,74.18,33.33,Dairy Free,dinner;lunch;main course;main dish;salad;side dish
+157101,Chocolate Chai Panna Cotta,dessert,199.35,4.0,8.23,27.92,Gluten Free,dessert
+648155,Italian Kale and Potato Soup,main course,479.87,21.97,33.16,25.16,Gluten Free;Whole 30,dinner;lunch;main course;main dish;soup
+1697783,Tiramisu Overnight Oats,breakfast,548.99,22.16,21.52,66.66,Gluten Free;Lacto Ovo Vegetarian,breakfast;brunch;morning meal
+654571,Panna Cotta with Raspberry and Orange Sauce,dessert,395.65,7.89,27.31,30.87,Gluten Free,dessert
+632949,Asparagus Quiche,appetizer,288.37,9.25,25.17,7.8,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+661427,"Spring Risotto with Shrimp, Asparagus and Artichoke Hearts",main course,385.45,13.13,5.18,67.18,Gluten Free;Pescatarian,dinner;lunch;main course;main dish;side dish
+634660,Beef Pot Pies with Irish Cheddar Crust,main course,719.12,42.62,38.32,49.34,,dinner;lunch;main course;main dish
+632445,Apothic Granita and Vanilla Panna Cotta,dessert,521.87,7.4,38.12,26.39,Gluten Free,dessert
+640819,Crispy Italian Cauliflower Poppers Appetizer,appetizer,477.71,20.3,16.97,63.41,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+655822,Pesto Fresh Caprese Sandwich,main course,563.16,31.84,31.55,37.51,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish
+634404,Basic Risotto,main course,654.7,19.86,20.24,95.56,Gluten Free,dinner;lunch;main course;main dish;side dish
+658850,Royal Wedding Pear and Coriander Scones,dessert,284.2,5.0,16.24,32.84,Gluten Free;Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+647654,Hungarian Cottage-Cheese Biscuits (Túrós Pogácsa),unknown,57.58,2.66,2.12,6.83,Lacto Ovo Vegetarian,
+716414,"Red, White & Blue Crepes: Happy July 4th! @driscollsberry",breakfast,254.25,6.22,7.41,44.18,,breakfast;brunch;morning meal
+665672,Zomppa's French Apple Tart,dessert,306.62,0.53,17.26,40.16,Gluten Free,dessert
+640864,Crock Pot Lasagna,main course,294.39,26.93,10.89,22.63,,dinner;lunch;main course;main dish
+651758,Meyer Lemon Biscotti with Dried Wild Blueberries,dessert,86.57,2.13,1.22,16.88,Dairy Free;Lacto Ovo Vegetarian,dessert
+658782,Rosemary and Red Onion Focaccia,bread,140.96,3.44,2.98,24.67,Dairy Free;Lacto Ovo Vegetarian,bread
+715538,What to make for dinner tonight?? Bruschetta Style Pork & Pasta,main course,591.44,44.9,13.42,69.02,,dinner;lunch;main course;main dish
+641650,Dried Cherry-Almond Scones,dessert,216.83,5.54,7.39,32.1,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+634481,Bbq Chicken and Goat Cheese Ravioli,main course,548.87,24.3,18.89,68.95,,dinner;lunch;main course;main dish;side dish
+645833,Grilled Ratatouille,main course,1143.9,25.04,82.51,87.82,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish;side dish
+157093,Puff Paste quiche,main course,541.48,29.26,25.5,53.24,Gluten Free,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+157375,Steamy Creamy Mushroom Risotto,main course,956.59,29.01,41.41,107.11,Gluten Free,dinner;lunch;main course;main dish;side dish
+1956366,Flying Scotchman,beverage,171.06,0.08,0.0,6.01,Dairy Free;Lacto Ovo Vegetarian;Vegan,beverage;drink
+631747,Dutch Oven Paella,main course,669.79,43.13,23.97,68.03,Dairy Free,dinner;lunch;main course;main dish
+648715,Kale Bruschetta,appetizer,132.05,0.35,14.09,1.65,Dairy Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+665480,Xocai Irish Cream with Xocai Healthy Dark Chocolate Nuggets,beverage,484.73,3.46,22.37,40.34,Gluten Free,beverage;drink
+649886,Lemony Greek Lentil Soup,main course,368.09,22.71,3.75,64.17,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,dinner;lunch;main course;main dish;soup
+649718,Lemon Pasta Alfredo (Vegan),main course,942.04,21.9,52.03,97.85,,dinner;lunch;main course;main dish;side dish
+664470,Vegan Pea and Mint Pesto Bruschetta,appetizer,136.6,1.96,12.0,5.42,Dairy Free,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+640395,Cranberry Orange Biscotti,dessert,106.07,1.87,4.88,14.69,Lacto Ovo Vegetarian,dessert
+651255,Matcha Panna Cotta Notta,unknown,187.8,6.26,15.03,6.01,Dairy Free;Gluten Free,
+665446,X-Country Double Lobster Risotto,main course,585.77,21.28,14.18,88.99,Gluten Free;Pescatarian,dinner;lunch;main course;main dish;side dish
+646660,Goat Cheese and Fig Crostini,appetizer,310.62,8.67,17.03,30.73,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+645187,Grape and Rosemary Focaccia,bread,131.0,2.87,4.72,19.19,Dairy Free;Lacto Ovo Vegetarian;Vegan,bread
+1096248,Easy Homemade French Onion Dip,appetizer,180.47,1.45,17.38,5.5,Gluten Free,antipasti;antipasto;appetizer;condiment;dip;hor d'oeuvre;snack;spread;starter
+1096038,Sriracha Honey Brussel Sprouts,side dish,98.5,3.98,3.93,15.07,Dairy Free;Gluten Free;Lacto Ovo Vegetarian,side dish
+658515,Roasted Brussels Sprouts With Garlic,side dish,232.73,5.83,18.02,16.22,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Paleolithic;Primal;Vegan;Whole 30,side dish
+645348,Greek Side Salad,side dish,276.64,6.87,22.53,14.49,Gluten Free;Lacto Ovo Vegetarian;Primal,antipasti;antipasto;appetizer;hor d'oeuvre;salad;side dish;snack;starter
+1095809,Creamy Italian Dressing,side dish,34.38,0.03,3.14,1.09,Dairy Free;Gluten Free;Lacto Ovo Vegetarian,side dish
+654331,"Paella Catalane With Mussels, Squid & Crevettes",main course,668.02,34.97,36.7,45.61,Gluten Free,dinner;lunch;main course;main dish
+640696,Creamy Risotto With Smoked Turkey Sausage,main course,503.52,29.32,13.64,59.88,Gluten Free,dinner;lunch;main course;main dish;side dish
+661602,Sterling Cooper Blini with Caviar,breakfast,83.52,1.49,7.03,3.84,Pescatarian,breakfast;brunch;morning meal
+648257,Italian Steamed Artichokes,main course,223.33,15.33,0.85,49.94,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Paleolithic;Primal;Vegan;Whole 30,dinner;lunch;main course;main dish
+1426885,Quick and Easy No-Boil Lasagna,main course,689.54,44.41,37.58,44.88,,dinner;lunch;main course;main dish;side dish
+655003,Pate De Chocolate,appetizer,1096.55,10.52,84.17,62.45,Gluten Free,antipasti;antipasto;appetizer;condiment;dip;hor d'oeuvre;snack;spread;starter
+640730,Creme Brulee,dessert,166.64,3.24,14.25,7.01,Gluten Free;Lacto Ovo Vegetarian,dessert
+59431,Berry Trifle,dessert,75.22,3.2,1.07,13.66,,dessert
+634877,Best Biscotti,dessert,87.59,1.37,3.46,12.43,Lacto Ovo Vegetarian,dessert
+649496,Lemon and Arënkha Msc Risotto With Anchovy-Fried Crumbs,main course,680.16,17.46,27.42,82.2,Pescatarian,dinner;lunch;main course;main dish;side dish
+636581,"Butternut Squash and Zucchini Lasagna-Gluten free, Vegan",appetizer,323.73,3.72,27.65,20.37,Dairy Free,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+1697573,Gougères Gruyère – French Appetizer,appetizer,68.26,3.06,5.06,2.62,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+640590,Creamy Asparagus Risotto Side Dish,main course,674.14,58.9,23.4,49.78,Gluten Free,dinner;lunch;main course;main dish;side dish
+644666,Ginger-Lemon Panna Cotta with Brandied Berry Sauce,dessert,413.27,5.45,25.79,37.86,Gluten Free,dessert
+1955926,Affinity,beverage,297.27,0.16,0.0,9.44,Dairy Free;Lacto Ovo Vegetarian;Vegan,beverage;drink
+642287,Eggplant Fries with Tzatziki Sauce,side dish,295.33,12.8,5.68,48.61,Lacto Ovo Vegetarian,side dish
+636598,Butternut Squash Souffle Side Dish,appetizer,234.01,6.25,17.86,13.58,Gluten Free;Lacto Ovo Vegetarian;Primal,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+649195,Lamb Burgers With Tzatziki Sauce,main course,616.69,37.74,36.94,31.82,,dinner;lunch;main course;main dish
+658632,Roasted Pumpkin and Barley Risotto,main course,413.83,17.52,9.11,68.31,,dinner;lunch;main course;main dish;side dish
+801377,Chicken Parmesan Patty- Eat As A Burger OR On Pasta,main course,714.83,53.78,53.04,5.95,Ketogenic,dinner;lunch;main course;main dish
+649328,Lavender Tea With Lemon French Macarons,beverage,61.06,1.63,2.11,9.64,Dairy Free;Fodmap Friendly;Gluten Free;Lacto Ovo Vegetarian,beverage;drink
+658300,Rich Jelly Scones,dessert,640.18,13.71,29.14,81.54,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+647266,Honey Panna Cotta With Blueberries and Graham Crackers,dessert,268.95,3.12,18.29,25.43,,dessert
+654835,Pasta e Fagioli (Pasta and Beans),appetizer,213.75,9.89,6.36,29.95,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+657249,Pumpkin Banana Protein Oat Bars,appetizer,163.55,9.34,6.65,19.09,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+471334,Cheese and Corn Scones,dessert,230.16,5.03,13.32,23.57,,breakfast;brunch;dessert;morning meal
+651076,Marinated Souvlaki,main course,553.23,26.06,46.33,3.93,Dairy Free;Gluten Free;Ketogenic,dinner;lunch;main course;main dish
+632094,Almond Biscotti,dessert,555.39,12.44,21.83,81.88,Dairy Free;Lacto Ovo Vegetarian,dessert
+652864,My Grandmother's Migas,breakfast,56.23,2.26,4.11,2.91,Dairy Free,breakfast;brunch;morning meal
+642293,Eggplant Parmesan,main course,541.39,27.87,29.63,43.79,,dinner;lunch;main course;main dish
+1697599,Baked Ziti with Ricotta and Italian Sausage,main course,1153.22,54.56,66.86,85.56,,dinner;lunch;main course;main dish
+654935,Pasta with Peas and Italian Sausage,main course,575.63,19.05,11.89,99.04,,dinner;lunch;main course;main dish;side dish
+645354,Greek Shrimp Orzo,main course,409.52,23.74,13.51,47.76,Pescatarian,dinner;lunch;main course;main dish;side dish
+75081,Beef Wellington,main course,370.33,8.59,26.79,24.02,,dinner;lunch;main course;main dish
+644477,German Lemon Cake With Cranberry Aka Cranberry Zitronenkuchen,dessert,714.88,9.99,30.44,105.41,Lacto Ovo Vegetarian,dessert
+657907,Raspberry Thumbprint Wholewheat Scones With Macadamia Nuts,dessert,142.74,1.98,6.56,19.81,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+622598,Pittata - Pizza Frittata,main course,598.16,41.6,43.2,8.53,Gluten Free;Ketogenic;Primal,breakfast;brunch;dinner;lunch;main course;main dish;morning meal
+656506,Poached Prawns with Fettuccine and French String Beans,main course,442.16,24.72,17.98,45.78,Pescatarian,dinner;lunch;main course;main dish
+637591,Cheese Tortellini Alfredo,main course,593.46,22.34,28.57,62.45,,dinner;lunch;main course;main dish;side dish
+602644,Whisky Seville Marmalade Souffle,appetizer,123.21,3.79,3.36,14.94,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+658615,"Roasted Peppers, Spinach & Feta Pizza",main course,390.4,17.99,17.36,43.38,Lacto Ovo Vegetarian,dinner;lunch;main course;main dish
+640123,Cornbread Panzanella,side dish,560.44,9.2,25.46,74.73,Lacto Ovo Vegetarian,side dish
+1956326,Dry Martini,beverage,145.19,0.07,0.61,1.57,Dairy Free;Fodmap Friendly;Gluten Free;Lacto Ovo Vegetarian;Vegan,beverage;drink
+641270,Dark Chocolate Walnut Biscotti,dessert,108.0,2.9,4.86,13.81,,dessert
+680975,BLT Pizza,main course,627.71,25.74,25.83,73.64,,dinner;lunch;main course;main dish
+642638,Fava Crostini,appetizer,293.02,14.15,21.96,10.43,,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+656819,Pork schnitzel with tarragon cream sauce,main course,1071.57,56.07,78.04,32.89,,dinner;lunch;main course;main dish
+635108,Black Forest Cake For Blogger Friends,dessert,534.01,11.32,13.09,90.04,,dessert
+648980,Knekkebrød: Norwegian Crisp Bread,unknown,2.63,0.09,0.11,0.33,Dairy Free;Lacto Ovo Vegetarian;Vegan,
+633267,Bacon and Arugula Quiche,appetizer,224.39,7.5,19.35,5.82,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+641308,Decadent Black Forest Cake,dessert,297.82,2.59,13.74,43.39,,dessert
+652687,Mushroom Risotto over Broccoli Rabe,side dish,418.41,7.15,12.99,61.4,Gluten Free;Lacto Ovo Vegetarian,side dish
+653098,Niçoise Salad,side dish,300.27,8.37,18.07,28.04,Dairy Free;Gluten Free;Pescatarian;Whole 30,antipasti;antipasto;appetizer;hor d'oeuvre;salad;side dish;snack;starter
+826556,Brown Butter Cinnamon Churro Rice Krispie Treats,unknown,89.06,0.84,0.6,20.99,Dairy Free,
+639597,Classic French Onion Soup,main course,412.06,17.72,23.83,27.04,,dinner;lunch;main course;main dish;soup
+1096165,Sage Gimlet,beverage,244.53,0.08,0.06,21.05,Dairy Free;Fodmap Friendly;Gluten Free,beverage;drink
+633576,Baked Custard(Flan),dessert,348.8,6.42,23.67,28.27,Gluten Free;Lacto Ovo Vegetarian,dessert
+648660,Just Another Tiramisu,dessert,84.32,2.63,6.58,4.42,,dessert
+157991,Best Minestrone Soup Recipe,main course,451.79,22.88,20.41,46.68,,dinner;lunch;main course;main dish;soup
+658970,Saffron Buns - Swedish Lussebullar,bread,117.43,1.51,0.61,28.9,Lacto Ovo Vegetarian,bread
+665769,Zucchini Pizza Boats,main course,364.2,18.02,26.89,13.91,,dinner;lunch;main course;main dish
+660366,Smoked Salmon and Mascarpone Calzone,main course,940.41,28.68,47.28,100.96,Pescatarian,dinner;lunch;main course;main dish
+635527,Blueberry Ricotta Tartlettes,dessert,227.68,7.04,8.18,33.37,Gluten Free,antipasti;antipasto;appetizer;dessert;fingerfood;hor d'oeuvre;snack;starter
+1955994,Americano,beverage,178.15,0.26,0.02,14.93,Dairy Free;Fodmap Friendly;Gluten Free;Lacto Ovo Vegetarian;Vegan,beverage;drink
+157964,Mashed Potato and Pea Perogies,appetizer,400.72,11.22,16.46,51.85,Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+636958,Caprese Sticks,side dish,146.51,1.59,15.8,0.42,Gluten Free;Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;salad;side dish;snack;starter
+650581,Macha Macarons,dessert,125.9,2.68,3.76,22.01,Dairy Free;Fodmap Friendly;Gluten Free;Lacto Ovo Vegetarian,dessert
+658585,Roasted Fish Bruschetta,appetizer,52.14,3.34,0.74,9.12,Dairy Free;Pescatarian,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+665193,White Chocolate Raspberry Brie Cups,appetizer,53.69,1.29,2.2,7.78,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+656544,Polenta gnocchi with savoy cabbage and cheese,main course,458.59,20.07,24.94,43.62,Gluten Free;Lacto Ovo Vegetarian,dinner;lunch;main course;main dish;side dish
+637434,Chanterelle and Mangalitsa Speck Pizza,main course,742.77,19.0,46.45,62.25,,dinner;lunch;main course;main dish
+664533,Vegetable Cheddar Quiche,appetizer,279.51,6.78,21.76,14.76,,antipasti;antipasto;appetizer;breakfast;brunch;hor d'oeuvre;morning meal;snack;starter
+648183,Italian Panna Cotta,dessert,377.68,3.76,23.37,41.67,Gluten Free,dessert
+649293,"Lasagne, Marietta-Style",main course,347.93,17.67,16.85,30.39,,dinner;lunch;main course;main dish
+1956374,French 75,beverage,265.31,1.47,0.3,30.19,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,beverage;drink
+654939,Pasta With Roasted Vegetables & Greek Olives,main course,266.44,23.03,9.84,25.96,,dinner;lunch;main course;main dish;side dish
+1646939,Strawberry Scones,dessert,271.27,5.45,12.76,35.88,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+1096088,Baked Chicken Caprese,main course,648.85,49.57,24.57,60.29,,dinner;lunch;main course;main dish;salad;side dish
+1956200,Brooklyn,beverage,273.49,0.09,0.01,10.06,Dairy Free;Gluten Free,beverage;drink
+644462,German Chocolate Drink with Xocai Healthy Chocolate,beverage,132.36,0.53,1.1,18.54,,beverage;drink
+1956638,Manhattan,beverage,211.54,0.19,0.03,6.0,Dairy Free;Lacto Ovo Vegetarian;Vegan,beverage;drink
+658920,Rustic Grilled Peaches Pizza,appetizer,226.06,10.2,10.21,23.97,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
+1095838,Homemade Churros,dessert,87.68,0.6,3.07,14.95,Lacto Ovo Vegetarian,dessert
+643394,French Silk Chocolate Cake,dessert,489.59,7.09,25.15,64.59,Lacto Ovo Vegetarian,dessert
+50423,Blackberry Scones with Orange Zest (gluten-free),dessert,158.52,3.69,7.89,18.91,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+664327,Vanilla Panna Cotta with Chocolate Ganache,unknown,13.13,1.14,0.58,0.87,Gluten Free;Primal,
+638822,Chocolate Banana Biscotti,dessert,84.28,1.23,1.65,16.32,Dairy Free,dessert
+647645,Hungarian Beef Goulash,main course,516.12,35.33,14.07,61.61,,dinner;lunch;main course;main dish
+648698,Kahlua Tiramisu,dessert,362.96,4.81,29.51,16.0,,dessert
+1096288,Caprese Salad Appetizers,side dish,87.23,5.25,6.03,3.4,Gluten Free;Lacto Ovo Vegetarian;Primal,antipasti;antipasto;appetizer;hor d'oeuvre;salad;side dish;snack;starter
+635207,Blackberry Creme Brulee,dessert,711.68,9.67,48.41,64.37,Gluten Free,dessert
+644854,Gluten Free Quinoa and Corn Flour Crepes,dessert,423.0,4.27,17.16,65.98,Dairy Free;Gluten Free;Lacto Ovo Vegetarian;Vegan,breakfast;brunch;dessert;morning meal
+635684,Borscht,appetizer,56.05,1.95,3.35,4.55,Gluten Free;Lacto Ovo Vegetarian,antipasti;antipasto;appetizer;hor d'oeuvre;snack;soup;starter
+633876,Baked Ziti,main course,376.38,22.73,19.06,28.89,,dinner;lunch;main course;main dish
+648004,Irish Soda Bread with Raisins,dessert,158.02,2.21,7.37,22.34,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+1956700,Negroni,beverage,231.9,0.08,0.0,11.9,Dairy Free;Fodmap Friendly;Gluten Free;Lacto Ovo Vegetarian;Vegan,beverage;drink
+645365,Greek Style Honey and Pistachio Cake,dessert,525.22,12.32,26.52,62.89,Lacto Ovo Vegetarian,dessert
+716272,Nutella Crepes and Ice Cream,dessert,632.87,11.33,24.65,94.29,,dessert
+657768,Raisin Scones,dessert,159.69,2.77,5.86,24.75,Lacto Ovo Vegetarian,breakfast;brunch;dessert;morning meal
+716412,"Roasted Cranberries, Ricotta & Honey Crostini",appetizer,290.49,9.33,7.83,47.44,,antipasti;antipasto;appetizer;fingerfood;hor d'oeuvre;snack;starter
+661640,Stilton Balsamic Pizza,appetizer,61.67,1.79,1.97,8.92,,antipasti;antipasto;appetizer;hor d'oeuvre;snack;starter
